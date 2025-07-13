@@ -1,0 +1,4 @@
+country,total_purchase
+India,500
+UK,450
+USA,800
