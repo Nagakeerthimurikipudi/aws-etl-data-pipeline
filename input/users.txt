@@ -1,0 +1,6 @@
+user_id,country,purchase_amount
+1,India,300
+2,USA,500
+3,India,200
+4,UK,450
+5,USA,300
